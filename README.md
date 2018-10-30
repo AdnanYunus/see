@@ -1,4 +1,4 @@
-## General Info- 
+### General Info- 
 
 **Project Name**- Bus Ticket Reservation System with Predictive Analysis using Python.
 
